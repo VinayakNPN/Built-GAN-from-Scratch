@@ -11,7 +11,6 @@
 
 **Generative Adversarial Networks (GANs)** are a revolutionary class of machine learning models introduced by Ian Goodfellow in 2014. They consist of two neural networks competing against each other in a zero-sum game framework:
 
-![GAN Architecture](https://miro.medium.com/v2/resize:fit:1400/1*O_XU3zXWDb6LFHA5SaFqNA.png)
 
 ### 🎭 The Two Players
 
